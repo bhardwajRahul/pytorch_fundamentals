@@ -24,9 +24,13 @@ If you're installing torch with CUDA support, make sure to use the correct insta
 - Tensor Indexing
 - Tensor Reshaping
 
-## Code
+## Code Notebook
 
-👉 [Jupyter notebook](pytorch_fundamentals.ipynb) 
+Dive into the hands-on examples in this interactive [Jupyter notebook](pytorch_fundamentals.ipynb). 
+
+## Blog Post
+
+Read the full breakdown and insights in the accompanying [blog post](https://awesomeneuron.substack.com/p/pytorch-fundamentals-your-first-steps).
 
 ## Contribution
 
