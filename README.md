@@ -41,4 +41,4 @@ Read the full breakdown and insights in the accompanying [blog post](https://awe
 
 ## License
 
-This project is licensed under [Apache License](./LICENSE)
+This project is licensed under [MIT License](./LICENSE)
